@@ -220,7 +220,7 @@ Source: Azure SQL Server hosted on `sqlserver-damg7370.database.windows.net`
 
 | Field | Detail |
 |---|---|
-| Course | DAMG 7370 -- Data Architecture and Management |
+| Course | DAMG 7370 - Designing Advanced Data Architectures for Business Intelligence |
 | Semester | Spring 2026 |
-| Institution | Northeastern University, Khoury College of Computer Sciences |
+| Institution | Northeastern University, College Of Engineering |
 | Project | Midterm Team Project |
