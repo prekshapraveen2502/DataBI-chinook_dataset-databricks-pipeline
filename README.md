@@ -193,9 +193,9 @@ Each team member works on their own branch and raises a pull request into `main`
 | Branch | Member |
 |---|---|
 | main | Protected -- final merged code |
-| member-1-branch | Team Member 1 |
-| member-2-branch | Team Member 2 |
-| member-3-branch | Team Member 3 |
+| member-1-branch | Preksha |
+| member-2-branch | Riyanshi |
+| member-3-branch | Pradyumna |
 
 The Databricks workspace is linked directly to this repository. Notebooks can be committed and pushed from within Databricks without leaving the platform.
 
